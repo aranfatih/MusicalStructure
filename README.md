@@ -1,6 +1,7 @@
 # MusicalStructure
 Basic structure and design of a musical app.
-[screenshot_1506450412](https://user-images.githubusercontent.com/19223945/30879469-2814a110-a308-11e7-8a9c-cb47eb34bc7a.png =250x)
+[screenshot_1506450412](https://user-images.githubusercontent.com/19223945/30879469-2814a110-a308-11e7-8a9c-cb47eb34bc7a.png)
+<img src="https://user-images.githubusercontent.com/19223945/30879469-2814a110-a308-11e7-8a9c-cb47eb34bc7a.png" alt="Drawing" style="width: 200px;"/>
 
 ![screenshot_1506450427](https://user-images.githubusercontent.com/19223945/30879500-39b25110-a308-11e7-87e7-0b435bcc5543.png)
 
